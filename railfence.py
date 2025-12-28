@@ -1,3 +1,11 @@
+"""
+Group members 
+SAMUEL KUMELA      068
+ADONIGHT ALEMAYEHU  047
+MERONAWIT DEJENE    085
+"""
+
+
 def encrypt_rail_fence(text, rails):
     # Remove spaces and convert text to uppercase
     text = text.replace(" ", "").upper()
